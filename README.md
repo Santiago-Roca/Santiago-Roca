@@ -5,9 +5,6 @@
 
 Estoy comprometido con el aprendizaje continuo y me entusiasma trabajar en proyectos que me permitan seguir creciendo y aportando al mundo de la tecnología.
 
-
-![banner](banner.jpg)
-
 ### Habilidades
 ---
 
