@@ -5,7 +5,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador Full Stack especializado en la tecnología MERN. Disfruto enfrentando nuevos desafíos y colaborando en equipos. Mi pasión por la programación se destaca especialmente en el uso de React. 
 
-Además, soy Licenciado en Educación, lo que me brinda excelentes habilidades para trabajar en equipo y comunicarme eficazmente. Estoy comprometido con el aprendizaje continuo y me entusiasma trabajar en proyectos que me permitan seguir creciendo y aportando al mundo de la tecnología
+Además, soy Licenciado en Educación, lo que me brinda excelentes habilidades para trabajar en equipo y comunicarme eficazmente. Estoy comprometido con el aprendizaje continuo y me entusiasma trabajar en proyectos que me permitan seguir creciendo profesionalmente aportando al mundo de la tecnología.
 
 ### Habilidades
 ---
