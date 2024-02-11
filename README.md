@@ -15,6 +15,7 @@ Además, soy Licenciado en Educación, lo que me brinda excelentes habilidades p
 - **SASS**
 - **JavaScript**  
 - **Bootstrap**
+- **Tailwind**
 - **React.js**
 - **React Hooks** 
 - **Node.js** 
@@ -22,7 +23,8 @@ Además, soy Licenciado en Educación, lo que me brinda excelentes habilidades p
 - **Mongoose**
 - **Firebase**  
 - **Express.js**  
-- **JWT**  
+- **JWT**
+- **Passport**
 - **Github**
 
 ### Proyectos:
