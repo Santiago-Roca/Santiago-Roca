@@ -30,7 +30,8 @@ Además, soy Licenciado en Educación, lo que me brinda excelentes habilidades p
 ### Proyectos:
 
 - 💡 [Arte Luces](https://santiago-roca.github.io/ArteLuces/)
-- 🚘 [Autorepuestos](https://santiago-roca.github.io/AutorrepuestosAtlantida/)
+- 💡 [varilux]()
+- 🚘 [Autorepuestos]()
 
 ### Contacto
 ---
